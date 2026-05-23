@@ -103,5 +103,7 @@ DecodesLab while actively building a freelance portfolio on
 LinkedIn.
 
 🔗 GitHub: github.com/ume1088
+
 🔗 LinkedIn: www.linkedin.com/in/ume-habiba-88313537b
+
 📧 umehabiba1088@gmail.com
