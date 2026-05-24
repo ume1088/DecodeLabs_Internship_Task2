@@ -1,5 +1,5 @@
 # E-Commerce Sales — Exploratory Data Analysis (EDA)
-### DecodesLab Data Analytics Internship — Project 2 | Batch 2026
+
 
 ---
 
